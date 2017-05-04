@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Aerial"
-baseurl = "https://firepit.github.io/marketing/"
+baseurl = "http://firepit.com"
 theme = "aerial"
 publishDir = "docs"
 
