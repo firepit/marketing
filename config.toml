@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Aerial"
+title = "Providing meaningful conversations between two humans"
 baseurl = "http://getfirepit.com"
 theme = "aerial"
 publishDir = "docs"
