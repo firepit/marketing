@@ -1,0 +1,15 @@
+languageCode = "en-us"
+title = "Aerial"
+baseurl = "http://example.org/"
+theme = "aerial"
+publishDir = "docs"
+
+[params]
+  name = "FirePit"
+  about = "Effortlessly, you are granted more time with the most interesting people you know"
+  copyright = "2017 FirePit, Inc. All Rights Reserved."
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = "a"
+  favicon = "favicon.ico"
+
+
