@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Aerial"
-baseurl = "http://example.org/"
+baseurl = "https://firepit.github.io/marketing/"
 theme = "aerial"
 publishDir = "docs"
 
@@ -10,6 +10,6 @@ publishDir = "docs"
   copyright = "2017 FirePit, Inc. All Rights Reserved."
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "a"
-  favicon = "favicon.ico"
+  favicon = "favicon.png"
 
 
