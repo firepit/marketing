@@ -1030,3 +1030,9 @@
 		#header nav {
 			padding: 0 1em;
 		} }
+
+		/* Dane Edits */
+
+		#main_logo {
+		background: #348cb2 url("images/firepit_wide_logo.png");
+		}
